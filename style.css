@@ -205,7 +205,7 @@ section:nth-child(even) { background: #020202 !important; }
   position: absolute;
   z-index: 3;
   left: 0;
-  top: 68%;
+  top: 50%;
   width: 100%;
   max-width: 780px;
   padding: 0 60px;
@@ -561,7 +561,7 @@ section:nth-child(even) { background: #020202 !important; }
 #hero .hero-container {
   left: auto;
   right: 2%;
-  top: 50%;
+  top: 68%;
   width: 66%;
   max-width: 900px;
   padding: 0 45px;
